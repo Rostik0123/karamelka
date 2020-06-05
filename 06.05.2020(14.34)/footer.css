@@ -1,0 +1,17 @@
+.foot {
+position: absolute;
+width: 1440px;
+height: 64px;
+left: 0px;
+top: 1236px;
+background: rgba(255, 255, 255, 0.25);
+}
+
+.ok {
+  position: absolute;
+  width: 36.63px;
+  height: 36.63px;
+  left: 1006.6px;
+  top: 11px;
+  transform: rotate(10.38deg);
+}
